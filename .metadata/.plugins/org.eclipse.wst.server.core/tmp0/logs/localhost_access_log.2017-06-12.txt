@@ -1,0 +1,12 @@
+127.0.0.1 - - [12/Jun/2017:17:08:25 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:08:26 +0900] "GET /ShoppingMall/index.jsp HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:08:27 +0900] "GET /ShoppingMall/login.do HTTP/1.1" 200 952
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:08:27 +0900] "GET /ShoppingMall/script/member.js HTTP/1.1" 200 1712
+127.0.0.1 - - [12/Jun/2017:17:09:08 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:09 +0900] "GET /ShoppingMall/index.jsp HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:10 +0900] "GET /ShoppingMall/login.do HTTP/1.1" 200 952
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:10 +0900] "GET /ShoppingMall/script/member.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:15 +0900] "POST /ShoppingMall/login.do HTTP/1.1" 200 988
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:19 +0900] "POST /ShoppingMall/login.do HTTP/1.1" 200 755
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:19 +0900] "GET /ShoppingMall/member.js HTTP/1.1" 404 1063
+0:0:0:0:0:0:0:1 - - [12/Jun/2017:17:09:22 +0900] "GET /ShoppingMall/memberUpdate.do?userid=qkrwlstn1022 HTTP/1.1" 200 1649
